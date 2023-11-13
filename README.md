@@ -1,2 +1,5 @@
-# cn-da20ttb-lamchinhan-shopl-laravel
-** buoc1**
+# cn-da20ttb-lamchinhan-shopl-laravel 
+buoc1
+buoc2
+
+
