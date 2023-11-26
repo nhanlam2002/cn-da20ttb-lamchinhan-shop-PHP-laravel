@@ -100,18 +100,6 @@
                               <li class="dropdown {{ (request()->is('/*')) ? 'active' : '' }}">
                                  <a href="{{ route('user.home') }}">Trang Chủ</a>
                               </li>
-                              @foreach (category_header() as $category)
-                                 <li class="dropdown @php
-                                    if (isset($request->slug) && $request->slug == $category->slug) {
-                                       echo "active";
-                                    }
-                                 @endphp">
-                                    <a href="{{ route('user.products', $category->slug) }}">{{ $category->name }}</a>
-                                 </li>
-                              @endforeach
-                              <li class="dropdown {{ (request()->is('introduction*')) ? 'active' : '' }}">
-                                 <a href="{{ route('user.introduction') }}">Giới Thiệu</a>
-                              </li>
                            </ul>
                         </div>
                      </div>
