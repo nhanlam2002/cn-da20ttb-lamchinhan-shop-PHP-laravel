@@ -243,7 +243,14 @@ class DatabaseSeeder extends Seeder
                         'introduction' => '
                             <h3 style="text-align: center; ">
                             <b>GIỚI THIỆU VỀ FLATSHOP</b>
-                        
+                        </h3><h5><br></h5><h5>Chào mừng bạn đến với WebWebShop 
+                        điểm đến lý tưởng cho những người đam mê và đang tìm kiếm sự hoàn hảo trong việc trang trí không gian sống của mình!
+                        Tại đây, chúng tôi tự hào giới thiệu một bộ sưu tập đa dạng và phong phú về đồ nội thất, từ những bộ sofa sang trọng đến những chiếc bàn ăn tinh tế.
+                        </h5><h5><br></h5><h5>WebWebShop cam kết mang đến trải nghiệm mua sắm trực tuyến tốt nhất, với chất lượng sản phẩm hàng đầu và dịch vụ khách hàng xuất sắc. 
+                        Với đội ngũ thiết kế chuyên nghiệp, chúng tôi không chỉ cung cấp những sản phẩm độc đáo và hiện đại mà còn luôn cập nhật xu hướng mới nhất trong ngành nội thất.
+                        </h5><h5><br></h5><h5>Hãy để WebWebShop là người bạn đồng hành trong việc biến đổi không gian sống của bạn thành một nơi ấm cúng và sang trọng. 
+                        Bạn sẽ khám phá được không gian sống của mình với sự độc đáo và phản ánh đẳng cấp. 
+                        Hãy ghé thăm website của chúng tôi ngay hôm nay và khám phá bí mật để tạo nên không gian sống mơ ước của bạn!</h5>
                         '
                     ],
                 ]
