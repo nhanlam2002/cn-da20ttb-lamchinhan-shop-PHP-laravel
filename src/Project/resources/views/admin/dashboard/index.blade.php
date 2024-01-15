@@ -56,45 +56,7 @@
             <!-- /.card -->
           </div>
           <div class="col-md-12">
-            <!-- PIE CHART -->
-            <div class="card card-success">
-              <div class="card-header">
-                <h3 class="card-title">Sản phẩm bán chạy nhất</h3>
-                <div class="card-tools">
-                  <button type="button" class="btn btn-tool" data-card-widget="collapse">
-                    <i class="fas fa-minus"></i>
-                  </button>
-                  <button type="button" class="btn btn-tool" data-card-widget="remove">
-                    <i class="fas fa-times"></i>
-                  </button>
-                </div>
-              </div>
-              <div class="card-body">
-                <canvas id="pieChart" label="{{ $labelBestSellProduct }}" data="{{ $parameterBestSellProduct }}" style="min-height: 250px; height: 250px; max-height: 250px; max-width: 100%;"></canvas>
-              </div>
-              <!-- /.card-body -->
-            </div>
-            <!-- /.card -->
-          </div>
 
-          <div class="col-md-12">
-            <!-- PIE CHART -->
-            <div class="card card-primary">
-              <div class="card-header">
-                <h3 class="card-title">Sản phẩm có nhiều lượt đánh giá nhất</h3>
-                <div class="card-tools">
-                  <button type="button" class="btn btn-tool" data-card-widget="collapse">
-                    <i class="fas fa-minus"></i>
-                  </button>
-                  <button type="button" class="btn btn-tool" data-card-widget="remove">
-                    <i class="fas fa-times"></i>
-                  </button>
-                </div>
-              </div>
-              <div class="card-body">
-                <canvas id="bestReview" label="{{ $labelBestProductReview }}" data="{{ $parameterBestProductReview }}" style="min-height: 250px; height: 250px; max-height: 250px; max-width: 100%;"></canvas>
-              </div>
-              <!-- /.card-body -->
             </div>
             <!-- /.card -->
           </div>
