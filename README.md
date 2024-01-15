@@ -19,3 +19,10 @@ $ php artisan key:generate
 $ php artisan serve
 
 $ npm run dev
+## Tài khoản admin
+tk: admin@gmail.com
+mk: password
+## Thông tin liên hệ
+sdt: 0775874390
+gmail: tncoptimus@gmail.com
+
